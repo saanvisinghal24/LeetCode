@@ -12,13 +12,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saanvisinghal24/LeetCode/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
+| [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saanvisinghal24/LeetCode/tree/master/3583-count-special-triplets) |
 ## Counting
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/saanvisinghal24/LeetCode/tree/master/3583-count-special-triplets) |
+## Sorting
+|  |
+| ------- |
+| [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
