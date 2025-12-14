@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/saanvisinghal24/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Enumeration
 |  |
 | ------- |
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/saanvisinghal24/LeetCode/tree/master/3606-coupon-code-validator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 <!---LeetCode Topics End-->
