@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/saanvisinghal24/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/saanvisinghal24/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saanvisinghal24/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/saanvisinghal24/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/saanvisinghal24/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/saanvisinghal24/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/saanvisinghal24/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saanvisinghal24/LeetCode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/saanvisinghal24/LeetCode/tree/master/3606-coupon-code-validator) |
