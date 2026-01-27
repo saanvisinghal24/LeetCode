@@ -82,8 +82,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/saanvisinghal24/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Simulation
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/saanvisinghal24/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/saanvisinghal24/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
