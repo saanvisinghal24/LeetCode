@@ -67,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/saanvisinghal24/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/saanvisinghal24/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/saanvisinghal24/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/saanvisinghal24/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Greedy
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/saanvisinghal24/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/saanvisinghal24/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/saanvisinghal24/LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
