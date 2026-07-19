@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/saanvisinghal24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saanvisinghal24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/saanvisinghal24/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/saanvisinghal24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/saanvisinghal24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/saanvisinghal24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saanvisinghal24/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/saanvisinghal24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
