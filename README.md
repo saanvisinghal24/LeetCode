@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/saanvisinghal24/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/saanvisinghal24/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saanvisinghal24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/saanvisinghal24/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/saanvisinghal24/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
