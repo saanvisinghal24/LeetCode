@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/saanvisinghal24/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saanvisinghal24/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Enumeration
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/saanvisinghal24/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/saanvisinghal24/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/saanvisinghal24/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/saanvisinghal24/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
