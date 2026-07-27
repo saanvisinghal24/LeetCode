@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/saanvisinghal24/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/saanvisinghal24/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saanvisinghal24/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saanvisinghal24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/saanvisinghal24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saanvisinghal24/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/saanvisinghal24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/saanvisinghal24/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/saanvisinghal24/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saanvisinghal24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/saanvisinghal24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saanvisinghal24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/saanvisinghal24/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Simulation
