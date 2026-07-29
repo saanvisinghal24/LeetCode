@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saanvisinghal24/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/saanvisinghal24/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Enumeration
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/saanvisinghal24/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/saanvisinghal24/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/saanvisinghal24/LeetCode/tree/master/3583-count-special-triplets) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/saanvisinghal24/LeetCode/tree/master/3583-count-special-triplets) |
 ## Sorting
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3606-coupon-code-validator](https://github.com/saanvisinghal24/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
