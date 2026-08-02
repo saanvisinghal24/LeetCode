@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/saanvisinghal24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saanvisinghal24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/saanvisinghal24/LeetCode/tree/master/0877-stone-game) |
 | [1925-count-square-sum-triples](https://github.com/saanvisinghal24/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saanvisinghal24/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saanvisinghal24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/saanvisinghal24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saanvisinghal24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/saanvisinghal24/LeetCode/tree/master/0877-stone-game) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1200-minimum-absolute-difference](https://github.com/saanvisinghal24/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saanvisinghal24/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saanvisinghal24/LeetCode/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/saanvisinghal24/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/saanvisinghal24/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -222,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saanvisinghal24/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saanvisinghal24/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
