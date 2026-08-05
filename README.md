@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/saanvisinghal24/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/saanvisinghal24/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/saanvisinghal24/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Greedy
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/saanvisinghal24/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3310-remove-methods-from-project](https://github.com/saanvisinghal24/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saanvisinghal24/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saanvisinghal24/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/saanvisinghal24/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/saanvisinghal24/LeetCode/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/saanvisinghal24/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
